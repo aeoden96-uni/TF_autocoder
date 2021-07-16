@@ -5,6 +5,7 @@ Autocoder supersampling project i did in TensorFlow, closely following similar t
 U Jupyter bilježnici je napisan sav kod koji sam radio ( na engleskom je dodana i dokumentacija ) 
 te je napravljena prezentacija s generalnim opisom konvolucijskih mreža i mog projekta.
 
+
 Radio sam supersampling slike pomoću auto enkodera.
 Našao sam jednu dosta kompleksniju implementaciju modela,
 pa sam ju usporedio sam svojom lakšom.
